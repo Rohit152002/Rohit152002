@@ -8,7 +8,6 @@ I'm a passionate developer with a love for learning and creating. I enjoy workin
 - 🔭 I’m currently working on [Manipur News]
 - 🌱 I’m currently learning [NextJs]
 - 👯 I’m looking to collaborate on [open source projects, hackathons, etc.]
-- 💬 Ask me about [topics you're knowledgeable about]
 - 📫 How to reach me: [mail](mailto:laishramrohit15@gmail.com)
 
 ## 🛠️ Languages and Tools:
