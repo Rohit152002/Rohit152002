@@ -5,10 +5,10 @@
 ## 🚀 About Me
 I'm a passionate developer with a love for learning and creating. I enjoy working on both frontend and backend projects, and I'm always looking for new challenges to improve my skills.
 
-- 🔭 I’m currently working on [Manipur News]
+- 🔭 I’m currently working on Manipur News
 - 🌱 I’m currently learning new technologies on web development 
-- 👯 I’m looking to collaborate on [open source projects, hackathons, etc.]
-- 📫 How to reach me: [laishramrohit15@gmail.com](mailto:laishramrohit15@gmail.com)
+- 👯 I’m looking to collaborate on open source projects, hackathons, etc.
+- 📫 How to reach me: laishramrohit15@gmail.com(mailto:laishramrohit15@gmail.com)
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
